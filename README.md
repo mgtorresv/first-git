@@ -1,3 +1,3 @@
 # first-git
-miprimer proyecto con git
+mi primer proyecto con git
 estoy aprendiendo a usar git
